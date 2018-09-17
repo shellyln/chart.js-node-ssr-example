@@ -1,0 +1,11 @@
+{
+    "sourceMaps": true,
+    "presets": [
+        ["env", {
+            "targets": {
+                "node": "current"
+            }
+        }]
+    ],
+    "ignore": []
+}

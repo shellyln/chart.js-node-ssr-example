@@ -1,0 +1,40 @@
+{
+  "name": "chart.js-node-ssr-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Chart.js server side rendering example.",
+  "main": "bin/index.js",
+  "scripts": {
+    "build": "webpack-cli --mode=production --config webpack.config.js",
+    "build:dev": "webpack-cli --mode=development --config webpack.config.js",
+    "start": "node bin/index.js",
+    "test": "echo test"
+  },
+  "keywords": [
+    "Chart.js",
+    "SSR",
+    "SVG",
+    "Canvas",
+    "html5"
+  ],
+  "author": "shellyln",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "red-agate-svg-canvas": "^0.2.7",
+    "red-agate-util": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.7.34",
+    "@types/node": "^10.9.4",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "source-map-loader": "^0.2.4",
+    "tslint": "^5.11.0",
+    "ts-loader": "^5.1.1",
+    "typescript": "^3.0.3",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0"
+  }
+}
