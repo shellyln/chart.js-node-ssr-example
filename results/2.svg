@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" height="400px" viewBox="0 0 800 400">
+<defs>
+</defs>
+<g><g stroke="none" fill="white" fill-rule="nonzero" fill-opacity="1" >
+<rect x="0" y="0" width="800" height="400" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="rgb(255,99,132)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="142" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(255,99,132)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="142" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="188" y="50.4">Red</tspan></text></g>
+<g stroke="rgb(54,162,235)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="216" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(54,162,235)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="216" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="262" y="50.4">Blue</tspan></text></g>
+<g stroke="rgb(255,206,86)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="296" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(255,206,86)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="296" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="342" y="50.4">Yellow</tspan></text></g>
+<g stroke="rgb(75,192,192)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="388" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(75,192,192)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="388" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="434" y="50.4">Green</tspan></text></g>
+<g stroke="rgb(153,102,255)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="474" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(153,102,255)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="474" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="520" y="50.4">Purple</tspan></text></g>
+<g stroke="rgb(255,159,64)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="566" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(255,159,64)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="566" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="612" y="50.4">Orange</tspan></text></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="middle" textLength="800" transform="matrix(1 0 0 1 400 17.2)" 
+><tspan x="0" y="0">Chart.js example</tspan></text></g>
+<g stroke="none" fill="rgb(255,99,132)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 400,67.4 C 491.568812,67.4 565.8,141.631188 565.8,233.2 565.8,282.2093 544.117488,328.707598 506.574186,360.210169 L 453.287093,296.705084
+C 472.058744,280.953799 482.9,257.70465 482.9,233.2 482.9,187.415594 445.784406,150.3 400,150.3 Z" />
+</g>
+<g stroke="rgb(255,99,132)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 400,67.4 C 491.568812,67.4 565.8,141.631188 565.8,233.2 565.8,282.2093 544.117488,328.707598 506.574186,360.210169 L 453.287093,296.705084
+C 472.058744,280.953799 482.9,257.70465 482.9,233.2 482.9,187.415594 445.784406,150.3 400,150.3 Z" />
+</g>
+<g stroke="none" fill="rgb(54,162,235)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 506.574186,360.210169 C 444.936958,411.929944 355.063042,411.929944 293.425814,360.210169 L 346.712907,296.705084 C 377.531521,322.564972
+422.468479,322.564972 453.287093,296.705084 Z" />
+</g>
+<g stroke="rgb(54,162,235)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 506.574186,360.210169 C 444.936958,411.929944 355.063042,411.929944 293.425814,360.210169 L 346.712907,296.705084 C 377.531521,322.564972
+422.468479,322.564972 453.287093,296.705084 Z" />
+</g>
+<g stroke="none" fill="rgb(255,206,86)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 293.425814,360.210169 C 263.565388,335.154296 243.487684,300.378692 236.718875,261.990868 L 318.359437,247.595434 C 321.743842,266.789346
+331.782694,284.177148 346.712907,296.705084 Z" />
+</g>
+<g stroke="rgb(255,206,86)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 293.425814,360.210169 C 263.565388,335.154296 243.487684,300.378692 236.718875,261.990868 L 318.359437,247.595434 C 321.743842,266.789346
+331.782694,284.177148 346.712907,296.705084 Z" />
+</g>
+<g stroke="none" fill="rgb(75,192,192)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 236.718875,261.990868 C 231.323818,231.39398 234.634304,199.896804 246.272917,171.090227 L 323.136458,202.145113 C 317.317152,216.548402
+315.661909,232.29699 318.359437,247.595434 Z" />
+</g>
+<g stroke="rgb(75,192,192)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 236.718875,261.990868 C 231.323818,231.39398 234.634304,199.896804 246.272917,171.090227 L 323.136458,202.145113 C 317.317152,216.548402
+315.661909,232.29699 318.359437,247.595434 Z" />
+</g>
+<g stroke="none" fill="rgb(153,102,255)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 246.272917,171.090227 C 256.441079,145.923144 272.632631,123.637384 293.425814,106.189831 L 346.712907,169.694916 C 336.316315,178.418692
+328.220539,189.561572 323.136458,202.145113 Z" />
+</g>
+<g stroke="rgb(153,102,255)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 246.272917,171.090227 C 256.441079,145.923144 272.632631,123.637384 293.425814,106.189831 L 346.712907,169.694916 C 336.316315,178.418692
+328.220539,189.561572 323.136458,202.145113 Z" />
+</g>
+<g stroke="none" fill="rgb(255,159,64)" fill-rule="nonzero" fill-opacity="0.2" >
+<path d="M 293.425814,106.189831 C 323.28624,81.133959 361.019982,67.4 400,67.4 L 400,150.3 C 380.509991,150.3 361.64312,157.166979
+346.712907,169.694916 Z" />
+</g>
+<g stroke="rgb(255,159,64)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<path d="M 293.425814,106.189831 C 323.28624,81.133959 361.019982,67.4 400,67.4 L 400,150.3 C 380.509991,150.3 361.64312,157.166979
+346.712907,169.694916 Z" />
+</g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="18" transform="matrix(1 0 0 1 517 191)" 
+><tspan x="-9" y="0">350</tspan></text></g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="18" transform="matrix(1 0 0 1 400 358)" 
+><tspan x="-9" y="0">200</tspan></text></g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="18" transform="matrix(1 0 0 1 292 295)" 
+><tspan x="-9" y="0">100</tspan></text></g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="18" transform="matrix(1 0 0 1 357 116)" 
+><tspan x="-9" y="0">100</tspan></text></g>
+</g></svg>

@@ -88,6 +88,22 @@ function main() {
 ```
 
 
+## Rendering results
+
+### [Bar](https://www.chartjs.org/docs/latest/getting-started/usage.html)
+![1](results/1.svg)
+
+### [Donuts](http://www.chartjs.org/samples/latest/charts/pie.html)
+![2](results/2.svg)
+
+### [Line](http://www.chartjs.org/samples/latest/charts/line/point-sizes.html)
+![3](results/3.svg)
+
+### [Area](http://www.chartjs.org/samples/latest/charts/area/line-stacked.html)
+![4](results/4.svg)
+
+
 ## Notes
 
-To import the [red-agate-svg-canvas](https://www.npmjs.com/package/red-agate-svg-canvas), you need to use `babel` + `webpack`.
+To import the [red-agate-svg-canvas](https://www.npmjs.com/package/red-agate-svg-canvas), you need to use `babel` + `webpack`.  
+(We have used the `import` statements for doing the [tree-shaking](https://webpack.js.org/guides/tree-shaking/). The `import` statements in the `.js` not the `.mjs` files cannot import from the vanilla node.js.)

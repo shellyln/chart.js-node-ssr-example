@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" height="400px" viewBox="0 0 800 400">
+<defs>
+<clipPath id="clip-1" fill-rule="nonzero" ><path d="M 28,66.4 L 28,372 779,372 779,66.4 Z" /></clipPath></defs>
+<g><g stroke="none" fill="white" fill-rule="nonzero" fill-opacity="1" >
+<rect x="0" y="0" width="800" height="400" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="rgba(255, 99, 132, 1),rgba(54, 162, 235, 1),rgba(255, 206, 86, 1),rgba(75, 192, 192, 1),rgba(153, 102, 255, 1),rgba(255, 159, 64, 1)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none">
+<rect x="342" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="rgb(255,99,132)" fill-rule="nonzero" fill-opacity="0.2" >
+<rect x="342" y="44.4" width="40" height="12" transform="matrix(1 0 0 1 0 0)" /></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" transform="matrix(1 0 0 1 0 0)" 
+><tspan x="388" y="50.4"># of Votes</tspan></text></g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="middle" textLength="800" transform="matrix(1 0 0 1 400 17.2)" 
+><tspan x="0" y="0">Chart.js example</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 29,373 L 29,383 M 29,66.4 L 29,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 91 382)" 
+><tspan x="0" y="0">Red</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 154,373 L 154,383 M 154,66.4 L 154,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 216 382)" 
+><tspan x="0" y="0">Blue</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 279,373 L 279,383 M 279,66.4 L 279,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 341 382)" 
+><tspan x="0" y="0">Yellow</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 404,373 L 404,383 M 404,66.4 L 404,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 466 382)" 
+><tspan x="0" y="0">Green</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 529,373 L 529,383 M 529,66.4 L 529,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 591 382)" 
+><tspan x="0" y="0">Purple</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 654,373 L 654,383 M 654,66.4 L 654,373" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1 0 0 1 716 382)" 
+><tspan x="0" y="0">Orange</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 28,372.5 L 780,372.5" />
+</g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0" fill="none">
+<path d="M 17,66.9 L 28,66.9 M 28,66.9 L 780,66.9" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 66.39999999999998)" 
+><tspan x="0" y="0">20</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,97.46 L 28,97.46 M 28,97.46 L 780,97.46" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 96.95999999999998)" 
+><tspan x="0" y="0">18</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,128.02 L 28,128.02 M 28,128.02 L 780,128.02" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 127.51999999999998)" 
+><tspan x="0" y="0">16</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,158.58 L 28,158.58 M 28,158.58 L 780,158.58" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 158.07999999999998)" 
+><tspan x="0" y="0">14</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,189.14 L 28,189.14 M 28,189.14 L 780,189.14" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 188.64)" 
+><tspan x="0" y="0">12</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,219.7 L 28,219.7 M 28,219.7 L 780,219.7" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 219.2)" 
+><tspan x="0" y="0">10</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,250.26 L 28,250.26 M 28,250.26 L 780,250.26" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 249.76)" 
+><tspan x="0" y="0">8</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,280.82 L 28,280.82 M 28,280.82 L 780,280.82" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 280.32)" 
+><tspan x="0" y="0">6</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,311.38 L 28,311.38 M 28,311.38 L 780,311.38" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 310.88)" 
+><tspan x="0" y="0">4</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 17,341.94 L 28,341.94 M 28,341.94 L 780,341.94" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 341.44)" 
+><tspan x="0" y="0">2</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.25" fill="none">
+<path d="M 17,372.5 L 28,372.5 M 28,372.5 L 780,372.5" />
+</g>
+<g stroke="none" fill="#666" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="end" dominant-baseline="middle" transform="matrix(1 0 0 1 18 372)" 
+><tspan x="0" y="0">0</tspan></text></g>
+<g stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="0.1" fill="none">
+<path d="M 28.5,66.4 L 28.5,373" />
+</g>
+<g stroke="none" fill="rgb(255,99,132)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 46.5,372 L 46.5,189.14 L 135.5,189.14 L 135.5,372" />
+</g>
+<g stroke="rgb(255,99,132)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 46.5,372 L 46.5,189.14 L 135.5,189.14 L 135.5,372" />
+</g>
+<g stroke="none" fill="rgb(54,162,235)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 171.5,372 L 171.5,79.124 L 260.5,79.124 L 260.5,372" />
+</g>
+<g stroke="rgb(54,162,235)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 171.5,372 L 171.5,79.124 L 260.5,79.124 L 260.5,372" />
+</g>
+<g stroke="none" fill="rgb(255,206,86)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 296.5,372 L 296.5,326.66 L 385.5,326.66 L 385.5,372" />
+</g>
+<g stroke="rgb(255,206,86)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 296.5,372 L 296.5,326.66 L 385.5,326.66 L 385.5,372" />
+</g>
+<g stroke="none" fill="rgb(75,192,192)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 421.5,372 L 421.5,296.1 L 510.5,296.1 L 510.5,372" />
+</g>
+<g stroke="rgb(75,192,192)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 421.5,372 L 421.5,296.1 L 510.5,296.1 L 510.5,372" />
+</g>
+<g stroke="none" fill="rgb(153,102,255)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 546.5,372 L 546.5,341.94 L 635.5,341.94 L 635.5,372" />
+</g>
+<g stroke="rgb(153,102,255)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 546.5,372 L 546.5,341.94 L 635.5,341.94 L 635.5,372" />
+</g>
+<g stroke="none" fill="rgb(255,159,64)" fill-rule="nonzero" fill-opacity="0.2"  clip-path="url(#clip-1)" >
+<path d="M 671.5,372 L 671.5,326.66 L 760.5,326.66 L 760.5,372" />
+</g>
+<g stroke="rgb(255,159,64)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" clip-path="url(#clip-1)" >
+<path d="M 671.5,372 L 671.5,326.66 L 760.5,326.66 L 760.5,372" />
+</g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="12" transform="matrix(1 0 0 1 91 280)" 
+><tspan x="-6" y="0">12</tspan></text></g>
+<g stroke="none" fill="black" fill-rule="nonzero" fill-opacity="1" >
+<text style="font:normal bold 12px &apos;Helvetica Neue&apos;, &apos;Helvetica&apos;, &apos;Arial&apos;, sans-serif;" text-anchor="start" dominant-baseline="middle" textLength="12" transform="matrix(1 0 0 1 216 225)" 
+><tspan x="-6" y="0">19</tspan></text></g>
+</g></svg>
