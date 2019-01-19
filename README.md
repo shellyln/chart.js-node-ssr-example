@@ -91,16 +91,16 @@ function main() {
 ## Rendering results
 
 ### [Bar](https://www.chartjs.org/docs/latest/getting-started/usage.html)
-![1](results/1.svg)
+![1](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/1.svg)
 
 ### [Donuts](http://www.chartjs.org/samples/latest/charts/pie.html)
-![2](results/2.svg)
+![2](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/2.svg)
 
 ### [Line](http://www.chartjs.org/samples/latest/charts/line/point-sizes.html)
-![3](results/3.svg)
+![3](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/3.svg)
 
 ### [Area](http://www.chartjs.org/samples/latest/charts/area/line-stacked.html)
-![4](results/4.svg)
+![4](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/4.svg)
 
 
 ## Notes
