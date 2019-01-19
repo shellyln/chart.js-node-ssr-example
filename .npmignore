@@ -41,7 +41,7 @@ build/Release
 /node_modules/
 
 # Bin directory
-# /bin/
+/bin/
 
 # NPM files
 .npmrc
