@@ -91,16 +91,16 @@ function main() {
 ## Rendering results
 
 ### [Bar](https://www.chartjs.org/docs/latest/getting-started/usage.html)
-![1](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/1.svg)
+![1](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/1.svg?sanitize=true)
 
 ### [Donuts](http://www.chartjs.org/samples/latest/charts/pie.html)
-![2](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/2.svg)
+![2](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/2.svg?sanitize=true)
 
 ### [Line](http://www.chartjs.org/samples/latest/charts/line/point-sizes.html)
-![3](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/3.svg)
+![3](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/3.svg?sanitize=true)
 
 ### [Area](http://www.chartjs.org/samples/latest/charts/area/line-stacked.html)
-![4](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/4.svg)
+![4](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/4.svg?sanitize=true)
 
 
 ## Notes
