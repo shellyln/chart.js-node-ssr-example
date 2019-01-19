@@ -1,7 +1,7 @@
 {
   "name": "chart.js-node-ssr-example",
-  "private": true,
-  "version": "1.0.2",
+  "private": false,
+  "version": "1.0.3",
   "description": "Chart.js server side rendering example.",
   "main": "bin/index.js",
   "scripts": {
