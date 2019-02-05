@@ -93,7 +93,7 @@ function main() {
 ### [Bar](https://www.chartjs.org/docs/latest/getting-started/usage.html)
 ![1](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/1.svg?sanitize=true)
 
-### [Donuts](http://www.chartjs.org/samples/latest/charts/pie.html)
+### [Donut](http://www.chartjs.org/samples/latest/charts/pie.html)
 ![2](https://raw.githubusercontent.com/shellyln/chart.js-node-ssr-example/master/results/2.svg?sanitize=true)
 
 ### [Line](http://www.chartjs.org/samples/latest/charts/line/point-sizes.html)
