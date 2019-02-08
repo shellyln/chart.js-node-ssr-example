@@ -1,8 +1,8 @@
 {
   "name": "chart.js-node-ssr-example",
   "private": false,
-  "version": "1.0.7",
-  "description": "Chart.js server side rendering example.",
+  "version": "1.0.8",
+  "description": "Chart.js server side rendering example. (pure JavaScript; no native modules)",
   "main": "bin/index.js",
   "scripts": {
     "build": "webpack-cli --mode=production --config webpack.config.js",
