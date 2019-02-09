@@ -1,12 +1,13 @@
 # Chart.js server side rendering example on the node.js environment.
 
-Render various charts using Chart.js into the SVG format.
+**Render various charts using Chart.js into the SVG format.**
 
 Chart.js uses the HTML5 Canvas API.  
 However, the node.js environment does not have the Canvas API by default.  
 With [red-agate-svg-canvas](https://www.npmjs.com/package/red-agate-svg-canvas),
 you can render the charts on the server side.
 
+**This example uses no native modules, so it can be easily installed on various platforms.**
 
 ## Get started
 
