@@ -8,9 +8,12 @@ import { SvgCanvas,
          SvgCanvas2DGradient } from 'red-agate-svg-canvas/modules';
 import * as ChartJs            from 'chart.js';
 
+
 // Get the global scope.
 // If running on a node, "g" points to a "global" object.
 // When running on the browser, "g" points to the "window" object.
+
+// tslint:disable-next-line:function-constructor
 const g = Function('return this')();
 
 

@@ -8,7 +8,8 @@
     "build": "webpack-cli --mode=production --config webpack.config.js",
     "build:dev": "webpack-cli --mode=development --config webpack.config.js",
     "start": "node bin/index.js",
-    "test": "echo test"
+    "test": "echo test",
+    "lint": "tslint ./src/**/*.ts -t verbose"
   },
   "keywords": [
     "Chart.js",
