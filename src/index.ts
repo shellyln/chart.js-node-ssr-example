@@ -6,7 +6,12 @@
 import { SvgCanvas,
          Rect2D,
          SvgCanvas2DGradient } from 'red-agate-svg-canvas/modules';
-import * as ChartJs            from 'chart.js';
+
+// NOTE: hack bad .d.ts definition for ESM.
+// import * as ChartJs from 'chart.js'; // <- This is fine if you only use webpack.
+import * as ChartJs_ from 'chart.js';
+const ChartJs: typeof ChartJs_ = (ChartJs_ as any).default || ChartJs_;
+
 
 
 // Get the global scope.

@@ -18,7 +18,8 @@ $ rm -rf ./.git
 
 $ npm install
 $ npm run build
-$ npm start
+$ npm start       # run webpacked
+$ npm start:v12   # run non-webpacked ES Modules
 ```
 
 
@@ -28,7 +29,12 @@ $ npm start
 import { SvgCanvas,
          Rect2D,
          SvgCanvas2DGradient } from 'red-agate-svg-canvas/modules';
-import * as ChartJs            from 'chart.js';
+
+// NOTE: hack bad .d.ts definition for ESM.
+// import * as ChartJs from 'chart.js'; // <- This is fine if you only use webpack.
+import * as ChartJs_ from 'chart.js';
+const ChartJs: typeof ChartJs_ = (ChartJs_ as any).default || ChartJs_;
+
 
 // Get the global scope.
 // If running on a node, "g" points to a "global" object.
@@ -106,5 +112,8 @@ function main() {
 
 ## Notes
 
-To import the [red-agate-svg-canvas](https://www.npmjs.com/package/red-agate-svg-canvas), you need to use `babel` + `webpack`.  
-(We have used the `import` statements for doing the [tree-shaking](https://webpack.js.org/guides/tree-shaking/). The `import` statements in the `.js` not the `.mjs` files cannot import from the vanilla node.js.)
+To import the [red-agate-svg-canvas](https://www.npmjs.com/package/red-agate-svg-canvas), ~~you need to use `babel` + `webpack`.~~  
+(We have used the `import` statements for doing the [tree-shaking](https://webpack.js.org/guides/tree-shaking/). ~~The `import` statements in the `.js` not the `.mjs` files cannot import from the vanilla node.js.~~)
+
+`red-agate-svg-canvas/modules` directory has a `package.json` file and determines that the source files are `ES Modules`.  
+See [Node.js Documentation - ECMAScript Modules](https://nodejs.org/api/modules.html).

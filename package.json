@@ -5,9 +5,17 @@
   "description": "Chart.js server side rendering example. (pure JavaScript; no native modules)",
   "main": "bin/index.js",
   "scripts": {
-    "build": "webpack-cli --mode=production --config webpack.config.js",
-    "build:dev": "webpack-cli --mode=development --config webpack.config.js",
-    "start": "node bin/index.js",
+    "clean": "rm -rf ./bin ./bin.esm",
+    "build": "npm run build:wp:prod && npm run build:esm",
+    "build:wp:prod": "webpack-cli --mode=production --config webpack.config.js",
+    "build:wp:dev": "webpack-cli --mode=development --config webpack.config.js",
+    "build:esm": "npm run build:esm:1 && npm run build:esm:2",
+    "build:esm:1": "tsc --outDir bin.esm",
+    "build:esm:2": "cp ./build-scripts/pkg.json ./bin.esm/package.json",
+    "start": "npm run start:wp",
+    "start:wp": "node bin/index.js",
+    "start:v12": "node --no-warnings --experimental-modules --es-module-specifier-resolution=node --experimental-json-modules ./bin.esm/index",
+    "start:v13": "node --no-warnings --es-module-specifier-resolution=node --experimental-json-modules ./bin.esm/index",
     "test": "echo test",
     "lint": "tslint ./src/**/*.ts -t verbose"
   },
@@ -18,27 +26,30 @@
     "Canvas",
     "html5"
   ],
-  "author": "shellyln",
-  "license": "ISC",
+  "engines": {
+    "node": ">=12.13.0"
+  },
   "dependencies": {
     "chart.js": "^2.9.3",
-    "red-agate-svg-canvas": "^0.2.20",
-    "red-agate-util": "^0.2.20"
+    "red-agate-svg-canvas": "^0.3.0",
+    "red-agate-util": "^0.3.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.7.5",
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
-    "@types/chart.js": "^2.9.5",
-    "@types/node": "^12.12.17",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@types/chart.js": "^2.9.11",
+    "@types/node": "^13.7.0",
     "babel-loader": "^8.0.6",
     "source-map-loader": "^0.2.4",
-    "tslint": "^5.20.1",
+    "tslint": "^6.0.0",
     "ts-loader": "^6.2.1",
-    "typescript": "^3.7.3",
-    "webpack": "^4.41.2",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
+  "author": "shellyln",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/shellyln/chart.js-node-ssr-example.git"
