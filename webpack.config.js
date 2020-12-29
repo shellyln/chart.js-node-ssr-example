@@ -29,6 +29,14 @@ module.exports = function (env) {
             }, {
                 test: /\.js$/,
                 use: ['babel-loader'],
+                resolve: {
+                    fullySpecified: false,
+                },
+            }, {
+                test: /\.m?js/,
+                resolve: {
+                    fullySpecified: false,
+                },
             }, {
                 enforce: 'pre',
                 test: /\.[tj]s$/,

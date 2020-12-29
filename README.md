@@ -18,8 +18,9 @@ $ rm -rf ./.git
 
 $ npm install
 $ npm run build
-$ npm start       # run webpacked
-$ npm start:v12   # run non-webpacked ES Modules
+$ npm start           # run webpacked
+$ npm run start:v12   # run non-webpacked ES Modules (Node.js >= 12.0.0)
+$ npm run start:v14   # run non-webpacked ES Modules (Node.js >= 13.0.0)
 ```
 
 
