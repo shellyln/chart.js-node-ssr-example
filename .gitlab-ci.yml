@@ -11,14 +11,21 @@ test:lint:
   script:
     - npm run lint
 
-# LTS
-test:node:12:
+test:node:15:
+  image: node:15
   script:
     - npm run build
     - npm test
 
-test:node:11:
-  image: node:11
+# LTS
+test:node:14:
+  image: node:14
+  script:
+    - npm run build
+    - npm test
+
+# LTS
+test:node:12:
   script:
     - npm run build
     - npm test
@@ -26,13 +33,6 @@ test:node:11:
 # LTS
 test:node:10:
   image: node:10
-  script:
-    - npm run build
-    - npm test
-
-# LTS
-test:node:8:
-  image: node:8
   script:
     - npm run build
     - npm test
