@@ -5,12 +5,10 @@
 
 import { SvgCanvas,
          Rect2D,
-         SvgCanvas2DGradient } from 'red-agate-svg-canvas/modules';
-
-// NOTE: hack bad .d.ts definition for ESM.
-// import * as ChartJs from 'chart.js'; // <- This is fine if you only use webpack.
-import * as ChartJs_ from 'chart.js';
-const ChartJs: typeof ChartJs_ = (ChartJs_ as any).default || ChartJs_;
+         SvgCanvas2DGradient,
+         Point2D,
+         TransferMatrix2D } from 'red-agate-svg-canvas/modules';
+import * as ChartJs from 'chart.js';
 
 
 
@@ -53,14 +51,59 @@ const opts: any = {
     },
     options: {
         scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
+            x: {
+                linear: true,
+            },
+            y: {
+                linear: true,
+                beginAtZero: true,
+            },
         }
     }
 };
+/*
+// https://www.chartjs.org/docs/latest/samples/bar/stacked.html
+const opts: any  = {
+    type: 'bar',
+    data: {
+        labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+        datasets: [
+            {
+                label: 'Dataset 1',
+                data: [50, 20, 30, 80, 90, 19, 35],
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+            },
+            {
+                label: 'Dataset 2',
+                data: [90, 19, 35, 50, 20, 30, 80],
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+            },
+            {
+                label: 'Dataset 3',
+                data: [19, 35, 50, 20, 30, 80, 90],
+                backgroundColor: 'rgba(255, 206, 86, 0.2)',
+            },
+        ]
+    },
+    options: {
+        plugins: {
+            title: {
+                display: true,
+                text: 'Chart.js Bar Chart - Stacked'
+            },
+        },
+        responsive: true,
+        scales: {
+            x: {
+                stacked: true,
+            },
+            y: {
+                stacked: true
+            }
+        }
+    }
+};
+*/
 
 
 
@@ -99,6 +142,12 @@ function main() {
     const savedGradient = g.CanvasGradient;
     g.CanvasGradient = SvgCanvas2DGradient;
     try {
+        (ctx as any).resetTransform = function () {
+            // TODO: shellyln/red-agate/packages/red-agate-svg-canvas/src/drawing/canvas/SvgCanvas.ts
+            (this as any).currentPointOnCtm = null;
+            (this as any).ctm = new TransferMatrix2D();
+        };
+        ChartJs.Chart.register(...ChartJs.registerables);
         const chart = new ChartJs.Chart(el as any, opts);
     } finally {
         if (savedGradient) {
